@@ -35,3 +35,4 @@ Unprocessed links and resources
 - http://sigslav.cs.helsinki.fi/resources.html
 - https://universaldependencies.org/
 - https://wortschatz.uni-leipzig.de/en/download/belarusian
+- https://huggingface.co/datasets?filter=languages:be
