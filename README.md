@@ -36,3 +36,4 @@ Unprocessed links and resources
 - https://universaldependencies.org/
 - https://wortschatz.uni-leipzig.de/en/download/belarusian
 - https://huggingface.co/datasets?filter=languages:be
+- https://www.opensubtitles.org/en/search/subs
