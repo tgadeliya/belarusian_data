@@ -28,7 +28,7 @@ Datasets
 -----
 | Name  | Description |
 |---|---|
-|  [Universal Dependencies for Belarus](https://github.com/UniversalDependencies/UD_Belarusian-HSE) |  |
+|  [Universal Dependencies for Belarus](https://github.com/UniversalDependencies/UD_Belarusian-HSE) |  | 
 
 
 
@@ -41,11 +41,18 @@ Corpuses
 | [TED](https://github.com/ajinkyakulkarni14/TED-Multilingual-Parallel-Corpus) |   |   |
 |[mC4](https://huggingface.co/datasets/mc4)| |
 |[mGENRE](https://arxiv.org/abs/2103.12528)|||
+| [Tatoeba](https://tatoeba.org/en)|Collection of parallel sentence in many languages|||
+|[Wikipedia 2021](https://corpora.uni-leipzig.de/en?corpusId=bel_wikipedia_2021)| Dump prepared by Leipzig university (2018 dump also available) |585,242 sentences and 8,058,542 tokens|
+|[News 2020](https://corpora.uni-leipzig.de/en?corpusId=bel_news_2020)| Collection of belarusian news |298,739 sentences and 4,141,950 tokens | 
 
+Raw Data in Belarusian
+----
+| Source | Description | Statistics |
+|---| ---|---|
+|[Opensubtitles.org](https://www.opensubtitles.org/en/search/sublanguageid-bel)|Collection of subtitle for movie in many languages| Subtitles in Belarusian for 22 languages|
 
 Unprocessed links and resources
 ----- 
-- Tatoeba
 - https://arxiv.org/abs/2102.00894
 - https://opus.nlpl.eu/
 - [NLLB data](https://github.com/facebookresearch/fairseq/blob/nllb/examples/nllb/data/README.md)
@@ -71,6 +78,4 @@ Unprocessed links and resources
 - https://nlproc.by/learn
 - https://ssrlab.by/en/
 - http://sigslav.cs.helsinki.fi/resources.html
-- https://wortschatz.uni-leipzig.de/en/download/belarusian
 - https://huggingface.co/datasets?filter=languages:be
-- https://www.opensubtitles.org/en/search/subs
