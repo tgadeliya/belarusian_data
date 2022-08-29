@@ -17,7 +17,7 @@ Models
 |[M2M](https://arxiv.org/abs/2010.11125) | Many-to-many translation | MT with focus on translation pairs xx -> yy, where xx and yy not English |  |
 |[NLLB](https://arxiv.org/abs/2207.04672) | Many-to-many translation | |  |
 |[mGPT](https://arxiv.org/abs/2204.07580)| CLM | Reproduction of GPT-3 for ~60 languages | |
-|[Canine_s](https://arxiv.org/abs/2204.07580]| LM |Tokenization-free encoder | |
+|[Canine_s](https://arxiv.org/abs/2204.07580)| LM |Tokenization-free encoder | |
 |[mBERT for passage reranking](https://huggingface.co/amberoad/bert-multilingual-passage-reranking-msmarco) | | | 
 |[RemBERT](https://arxiv.org/abs/2010.12821) | | | |
 |[byT5](https://arxiv.org/abs/2105.13626)|Byte-to-Text | | mC4|
