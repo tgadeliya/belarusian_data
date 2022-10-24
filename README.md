@@ -69,6 +69,7 @@ Other
 
 Unprocessed links and resources
 ----- 
+- [Cross-lingual Name Tagging and Linking for 282 Languages](https://aclanthology.org/P17-1178/)
 - https://arxiv.org/abs/2102.00894
 - [NLLB data](https://github.com/facebookresearch/fairseq/blob/nllb/examples/nllb/data/README.md)
 - [M2M sources list](https://arxiv.org/pdf/2010.11125.pdf)
