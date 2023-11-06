@@ -3,7 +3,7 @@
 
 Models
 -----
-| Name  | Type | Description | Belarus language source  |
+| Name  | Type | Description | Belarusian language source  |
 |---|---|---|---|
 |[XLM-R](https://arxiv.org/abs/1911.02116)| LM | Multilingual RoBERTa model | CC-100 corpus  |
 |[mBERT UnCased](https://github.com/google-research/bert/blob/master/multilingual.md#list-of-languages)| LM | BERT-base trained on 104 languages' Wikipedia  | Wikipedia |
