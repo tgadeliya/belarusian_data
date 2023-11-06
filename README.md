@@ -1,6 +1,29 @@
 # [WIP] Data for Belarusian language 
   Collection of resources useful for NLP in Belarusian 
 
+
+
+Corpuses 
+----- 
+| Source  | Description | Statistics  |
+|---|---|---|
+|[OPUS](https://opus.nlpl.eu/)|Huge collection of open parallel corpus. Contains almost all corpuses presented below||
+|  CC-100 | Common crawl |   |
+| [CCNet](https://arxiv.org/abs/1911.00359)  | Improved pipeline to extract monolingual datasets from Web Crawl | be 176.037 × 103 9.719 × 106 124.716 × 106 476.612 × 106   |
+|[OSCAR](https://arxiv.org/abs/2201.06642) | [Corpus](https://oscar-corpus.com/) from Common Crawl|Size=1.8 GB, Documents=180,046, Words=107,227,860|
+| [TED](https://github.com/ajinkyakulkarni14/TED-Multilingual-Parallel-Corpus) |   |   |
+|[mC4](https://huggingface.co/datasets/mc4)| |
+|[mGENRE](https://arxiv.org/abs/2103.12528)|||
+| [Tatoeba](https://tatoeba.org/en)|Collection of parallel sentence in many languages|||
+|[Wikipedia 2021](https://corpora.uni-leipzig.de/en?corpusId=bel_wikipedia_2021)| Dump prepared by Leipzig university (2018 dump also available) |585,242 sentences and 8,058,542 tokens|
+|[News 2020](https://corpora.uni-leipzig.de/en?corpusId=bel_news_2020)| Collection of belarusian news (news from 2019 and newscrawl 2011 is also available) |298,739 sentences and 4,141,950 tokens |
+|[YABC](https://github.com/poritski/YABC)|Yet another Belarussian corpus - collection of texts from different magazines and small collections of Belarusian literature| |
+|(Bible corpus)[https://biblija.bnkorpus.info/index.html#]|Contains 16 belarusian translations of Bible aligned with other languages for comparison ||
+
+
+
+
+
 Models
 -----
 | Name  | Type | Description | Belarusian language source  |
@@ -31,25 +54,6 @@ Datasets
 | Name  | Description |
 |---|---|
 |[Universal Dependencies for Belarus](https://github.com/UniversalDependencies/UD_Belarusian-HSE) |  | 
-
-
-
-Corpuses 
------ 
-| Source  | Description | Statistics  |
-|---|---|---|
-|[OPUS](https://opus.nlpl.eu/)|Huge collection of open parallel corpus. Contains almost all corpuses presented below||
-|  CC-100 | Common crawl |   |
-| [CCNet](https://arxiv.org/abs/1911.00359)  | Improved pipeline to extract monolingual datasets from Web Crawl | be 176.037 × 103 9.719 × 106 124.716 × 106 476.612 × 106   |
-|[OSCAR](https://arxiv.org/abs/2201.06642) | [Corpus](https://oscar-corpus.com/) from Common Crawl|Size=1.8 GB, Documents=180,046, Words=107,227,860|
-| [TED](https://github.com/ajinkyakulkarni14/TED-Multilingual-Parallel-Corpus) |   |   |
-|[mC4](https://huggingface.co/datasets/mc4)| |
-|[mGENRE](https://arxiv.org/abs/2103.12528)|||
-| [Tatoeba](https://tatoeba.org/en)|Collection of parallel sentence in many languages|||
-|[Wikipedia 2021](https://corpora.uni-leipzig.de/en?corpusId=bel_wikipedia_2021)| Dump prepared by Leipzig university (2018 dump also available) |585,242 sentences and 8,058,542 tokens|
-|[News 2020](https://corpora.uni-leipzig.de/en?corpusId=bel_news_2020)| Collection of belarusian news (news from 2019 and newscrawl 2011 is also available) |298,739 sentences and 4,141,950 tokens |
-|[YABC](https://github.com/poritski/YABC)|Yet another Belarussian corpus - collection of texts from different magazines and small collections of Belarusian literature| |
-|(Bible corpus)[https://biblija.bnkorpus.info/index.html#]|Contains 16 belarusian translations of Bible aligned with other languages for comparison ||
 
 
 Raw Data in Belarusian
